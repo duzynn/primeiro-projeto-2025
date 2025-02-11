@@ -1,5 +1,5 @@
 img{
-    width: 222px;
+    width: 200px;
 
 
 }
@@ -8,5 +8,11 @@ img{
     height: 100px;
     background-color: green;
 
+
+}
+.primeirasecao{
+width: 1000px;
+height: 550px;
+background-color: magenta;
 
 }
