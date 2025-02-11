@@ -12,7 +12,9 @@ img {
 }
 
 .primeirasecao {
+    justify-content: space-around;
     display: flex;
+    align-items: center;
     width: 1000px;
     height: 550px;
     background-color: magenta;
